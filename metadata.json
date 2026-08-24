@@ -1,0 +1,6 @@
+{
+  "name": "Jonny Eagle Plumbing & Heating",
+  "description": "Premium website for Jonny Eagle Plumbing & Heating, trusted Gas Safe registered plumbing, heating and gas engineer in Derby.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
